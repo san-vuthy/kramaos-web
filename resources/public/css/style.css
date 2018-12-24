@@ -163,3 +163,17 @@
     border-color: rgba(3,27,78,.1);
     box-shadow: 0 2px 4px rgba(3,27,78,.06);
 }
+.navbar-Koompi img{
+    width: 2.5em !important;
+    max-height: 2.5em !important;
+}
+.productsDropdown{
+    margin-left: -22px !important;
+}
+.navbar-Koompi span{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+    /* font-weight: bold; */
+}
